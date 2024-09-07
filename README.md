@@ -1,4 +1,5 @@
-# CS2API
+# CS2API ![extension_icon@24px](https://github.com/user-attachments/assets/0564d69a-34c3-4cd7-8186-05170ffc2e49)
+
 Non-official Counter-Strike 2 API for Python.
 
 If you want to see how scripts with this module is working, you can always see some examples in CS2API/examples/
