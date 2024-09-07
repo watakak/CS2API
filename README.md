@@ -7,20 +7,30 @@ And i really need beta-testers, so you can freely text me in Discord/Telegram: @
 
 ## Updates
 
-### Update 1.0.0
+**Update 1.0.0**
 > Initial release
+> 
 > Not that much functions
+> 
 > Advanced offsets.yml
 
-### Update 1.0.45
+**Update 1.0.45**
 > Advanced methods and new functions
+> 
 > Better find_offset function
+> 
 > do() function
+> 
 > More offsets in offsets.yml
 
-### Update 1.0.65
+**Update 1.0.65**
 > Logging system
+> 
 > Exceptions
+> 
 > New key() function, not that good
+> 
 > Updated do() and listen() functions
+> 
 > Better timings for listen event
+> 
