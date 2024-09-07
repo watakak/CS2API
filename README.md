@@ -21,7 +21,7 @@ And i really need beta-testers, so you can freely text me in Discord/Telegram: @
 > 
 > do() function
 > 
-> More offsets in offsets.yml
+> Many more offsets in offsets.py
 
 **Update 1.0.65**
 > Logging system
@@ -33,4 +33,3 @@ And i really need beta-testers, so you can freely text me in Discord/Telegram: @
 > Updated do() and listen() functions
 > 
 > Better timings for listen event
-> 
