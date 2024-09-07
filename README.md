@@ -6,6 +6,8 @@ If you want to see how scripts with this module is working, you can always see s
 
 And i really need beta-testers, so you can freely text me in Discord/Telegram: @watakaka
 
+![bhop py (3)](https://github.com/user-attachments/assets/8bc62e89-c9d5-4757-bbb5-6962c6e7544c)
+
 ## Updates
 
 **Update 1.0.0**
