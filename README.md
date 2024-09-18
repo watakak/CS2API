@@ -10,13 +10,6 @@ And i really need beta-testers, so you can freely text me in Discord/Telegram: *
 
 ## Updates
 
-**Update 1.0.0**
-> Initial release
-> 
-> Not that much functions
-> 
-> Advanced offsets.yml
-
 **Update 1.0.45**
 > Advanced methods and new functions
 > 
@@ -36,3 +29,10 @@ And i really need beta-testers, so you can freely text me in Discord/Telegram: *
 > Updated do() and listen() functions
 > 
 > Better timings for listen event
+
+**Update 1.0.0**
+> Initial release
+> 
+> Not that much functions
+> 
+> Advanced offsets.yml
