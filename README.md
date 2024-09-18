@@ -8,7 +8,7 @@ And i really need beta-testers, so you can freely text me in Discord/Telegram: *
 
 ![Example-bhop py-Script](https://github.com/user-attachments/assets/45059595-da2f-479c-850b-e1a8c8203012)
 
-## Updates
+## Updates History
 
 **Update 1.0.65**
 > Logging system
